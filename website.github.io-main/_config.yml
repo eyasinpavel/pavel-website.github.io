@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: " "
-email: maryam.maryam@ul.ie
+email: mxp220120@utdallas.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Maryam Maryam - Research Assistant @ UL - LERO
-url: "https://deeptestai.github.io" # the base hostname & protocol for your site
+  Pavel - PhD Student @ The University of Texas at Dallas
+url: "https://pavel-website.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: Maryam
-github_username: deeptestai
+twitter_username: Pavel
+github_username: eyasinpavel
 
 # Site Footer
 footer:
