@@ -1,2 +1,0 @@
-# pavel-profile
-Academic website
