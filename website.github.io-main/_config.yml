@@ -5,11 +5,12 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# For technical reasons, this file is NOT reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server
+# process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
@@ -18,67 +19,118 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: " "
-email: mxp220120@utdallas.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Pavel - PhD Student @ The University of Texas at Dallas
-url: "https://pavel-website.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: Pavel
+
+# ============================================================
+# SITE INFORMATION
+# ============================================================
+
+title: "Md Eyasin Ul Islam Pavel"
+
+email: "mxp220120@utdallas.edu"
+
+description: >-
+  PhD Candidate in Public Affairs at the University of Texas at Dallas.
+  Research interests include human resource management, organizational
+  management, organizational theory, organizational capacity, innovation,
+  performance, employee engagement, public management, quantitative methods,
+  and emotional labor.
+
+url: "https://eyasinpavel.github.io"
+
+baseurl: ""
+
 github_username: eyasinpavel
 
-# Site Footer
+
+# ============================================================
+# SITE FOOTER
+# ============================================================
+
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter fa-3x"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-3x"
-      url: "https://github.com/deeptestai"
+      url: "https://github.com/eyasinpavel"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-3x"
-      url: "https://www.linkedin.com/in/maryam-588693122"
+      url: ""
+
+
+# ============================================================
+# AUTHOR INFORMATION
+# ============================================================
 
 author:
-  name: "Pavel Islam"
-  #avatar: "/assets/images/Mar.png"
-  bio: "PhD student @ UTdellas,Texas" # Note: Markdown is allowed
-  location: "Texas, USA"
+  name: "Md Eyasin Ul Islam Pavel"
+
+  bio: >-
+    PhD Candidate in Public Affairs at the University of Texas at Dallas.
+
+  location: "Dallas, TX, USA"
+
   links:
-    #- label: "Made Mistakes"
-    #  icon: ""
-    #  url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/deeptestai"
+      url: "https://github.com/eyasinpavel"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/maryam-588693122"
+      url: ""
+
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=ayYdZcsAAAAJ&hl=en&authuser=2"
 
+
+# ============================================================
+# ATOM FEED
+# ============================================================
+
 atom_feed:
   hide: true
 
-# Build settings
-# theme: "minima"
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-plugins:
-   - jekyll-feed
-   - jekyll-include-cache
-   - jekyll-paginate
-   - jekyll-sitemap
-   - jekyll-gist
-   - jemoji
 
-# from mmist
+# ============================================================
+# BUILD SETTINGS
+# ============================================================
+
+# theme: "minima"
+
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+
+minimal_mistakes_skin: "dark"
+# Available skins:
+# "air"
+# "aqua"
+# "contrast"
+# "dark"
+# "dirt"
+# "neon"
+# "mint"
+# "plum"
+# "sunrise"
+
+
+# ============================================================
+# PLUGINS
+# ============================================================
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+
+
+# ============================================================
+# DEFAULTS
+# ============================================================
+
 defaults:
+
   # _posts
   - scope:
       path: ""
@@ -89,6 +141,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
@@ -98,18 +151,17 @@ defaults:
       author_profile: true
 
 
+# ============================================================
+# INCLUDE
+# ============================================================
+
 include:
   - _pages
 
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# ============================================================
+# EXCLUDE FROM PROCESSING
+# ============================================================
 
 exclude:
   - .sass-cache/
