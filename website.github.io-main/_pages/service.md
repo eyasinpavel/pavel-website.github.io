@@ -4,42 +4,83 @@ title: "Service"
 permalink: /service/
 ---
 
-
 ## Reviewer Service
 
-<h3>Conferences</h3>
+### Journal Reviewer
 
 <ul>
-  <li><strong>ICST 2026</strong> –  PC Member(Artifact Evaluation Committee)</li>
-  <li><strong>SBSE 2025</strong> – PC Member (Challenge Track)</li>
+  <li>
+    <strong>Frontiers in Environmental Science</strong> — Reviewer, 2025
+  </li>
+
+  <li>
+    <strong>Public Administration</strong> — Reviewer, 2026
+  </li>
+
+  <li>
+    <strong>Public Administration and Development</strong> — Reviewer, 2026
+  </li>
 </ul>
 
-## **Internships**
-
-### **Internship at Insiel S.p.A, Trieste, Italy**  
-**Duration:** Oct 15, 2024 - Apr 15, 2025  
-
-<p style="text-align: justify;">
-<strong>Project Title:</strong>  
-*"Comparative analysis to verify the quality of the results obtained by technical supervisors and hierarchical generative AI. In particular, explore the supervisor technique, where one LLM (Large Language Model) moderates and verifies the results of another LLM, to better understand the dynamics and efficiencies between the two approaches."*  
-
-This project focuses on evaluating the effectiveness of generative AI supervision mechanisms and investigating how hierarchical LLM models interact to ensure <strong>result quality, accuracy, and efficiency</strong>.
-</p>
 
 ---
 
-### **Internship at US Agency for International Development (USAID), Pakistan**  
-**Duration:** Feb 2010 - May 2010  
+## Institutional Service
+
+### SACSCOC 2028 Decennial Reaffirmation Working Group
 
 <p style="text-align: justify;">
-Worked as a <strong>Software Operator</strong>, focusing on <strong>data discretization and processing</strong>. Contributed to optimizing <strong>data management workflows</strong> and supporting information system development for USAID projects.
+<strong>Working Group Member</strong><br>
+The Southern Association of Colleges and Schools Commission on Colleges
+(SACSCOC) 2028 Decennial Reaffirmation<br>
+University of Texas at Dallas<br>
+<strong>2026 – Present</strong>
 </p>
+
+<p style="text-align: justify;">
+Contributing to the University of Texas at Dallas institutional working group
+for the 2028 SACSCOC decennial reaffirmation process.
+</p>
+
 
 ---
 
-## **Volunteer Work**
+## Professional Service
 
 <p style="text-align: justify;">
-- <strong>Student Volunteer</strong> for the <strong>18th IEEE International Conference on Software Testing, Verification, and Validation (ICST 2025)</strong>.  
-  Assisted in conference organization, session coordination, and technical support to facilitate discussions on <strong>cutting-edge software testing research</strong>.
+My professional service activities include peer review for academic journals
+and institutional service through the University of Texas at Dallas.
 </p>
+
+
+---
+
+## Conference Presentations
+
+### American Society for Public Administration
+
+<ul>
+
+  <li>
+    <strong>2025, April</strong> —
+    <em>"Modeling Employee Experience in Public Organizations."</em>
+    American Society for Public Administration Annual Conference,
+    Performance Management and Budgeting Track, Washington, DC.
+  </li>
+
+  <li>
+    <strong>2026, March</strong> —
+    <em>"Igniting Innovation Processes: The Role of Engagement Antecedents."</em>
+    American Society for Public Administration Annual Conference,
+    Public Service Motivation Track, Hollywood, Los Angeles, CA.
+  </li>
+
+  <li>
+    <strong>2026, September</strong> —
+    <em>"Reconceptualizing Merit Principles and Performance:
+    A Convergent Performance Model."</em>
+    Joint SECOPA and NECOPA Conference, Norfolk, VA.
+    <strong>Accepted.</strong>
+  </li>
+
+</ul>
