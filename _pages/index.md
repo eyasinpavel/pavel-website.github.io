@@ -4,6 +4,11 @@ permalink: /
 title: "About Me"
 ---
 
+<div style="text-align: center; margin: 0 auto 25px auto;">
+  <img src="{{ site.baseurl }}/assets/images/pavel.jpg"
+       alt="Md Eyasin Ul Islam Pavel"
+       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
+</div>
 <p style="text-align: justify;">
 
 <strong>PhD Candidate in Public Affairs</strong> at the
@@ -12,16 +17,6 @@ title: "About Me"
 organizational capacity, innovation, performance, employee engagement, and public
 management</strong>. I use <strong>quantitative methods</strong> to study how
 organizational and human resource practices shape public organizations and public value.
-
-</p>
-
-<p style="text-align: justify;">
-
-My dissertation, <strong>"Drivers of Public Value: The Role of Human Resource
-Management Practices in Public Organizations,"</strong> examines how human resource
-management practices contribute to public value through organizational processes.
-My broader research also examines employee engagement, innovation, performance,
-emotional labor, and accessibility in public affairs education.
 
 </p>
 
