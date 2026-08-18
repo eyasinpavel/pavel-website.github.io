@@ -7,7 +7,14 @@ title: "About Me"
 <div style="text-align: center; margin: 0 auto 25px auto;">
   <img src="{{ site.baseurl }}/assets/images/pavel.jpg"
        alt="Md Eyasin Ul Islam Pavel"
-       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
+       style="
+         width: 220px;
+         height: 220px;
+         object-fit: contain;
+         display: block;
+         margin: 0 auto;
+         border-radius: 12px;
+       ">
 </div>
 <p style="text-align: justify;">
 
