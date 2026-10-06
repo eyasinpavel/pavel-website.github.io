@@ -55,6 +55,87 @@ and institutional service through the University of Texas at Dallas.
 
 ---
 
+## Teaching Service
+
+### Course Assignments
+
+<p style="text-align: justify;">
+Course assignments and instructional materials are provided below.
+</p>
+
+<details>
+  <summary><strong>Assignment 1</strong></summary>
+
+  <p>
+    Assignment 1 materials will be available here.
+  </p>
+
+  <!-- Add the assignment file link here -->
+  <!-- Example:
+  <a href="/assets/assignments/assignment-1.pdf" target="_blank">
+    Download Assignment 1
+  </a>
+  -->
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Assignment 2</strong></summary>
+
+  <p>
+    Assignment 2 materials will be available here.
+  </p>
+
+  <!-- Add the assignment file link here -->
+  <!-- Example:
+  <a href="/assets/assignments/assignment-2.pdf" target="_blank">
+    Download Assignment 2
+  </a>
+  -->
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Assignment 3</strong></summary>
+
+  <p>
+    Assignment 3 materials will be available here.
+  </p>
+
+  <!-- Add the assignment file link here -->
+  <!-- Example:
+  <a href="/assets/assignments/assignment-3.pdf" target="_blank">
+    Download Assignment 3
+  </a>
+  -->
+
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Assignment 4</strong></summary>
+
+  <p>
+    Assignment 4 materials will be available here.
+  </p>
+
+  <!-- Add the assignment file link here -->
+  <!-- Example:
+  <a href="/assets/assignments/assignment-4.pdf" target="_blank">
+    Download Assignment 4
+  </a>
+  -->
+
+</details>
+
+
+---
+
 ## Conference Presentations
 
 ### American Society for Public Administration
