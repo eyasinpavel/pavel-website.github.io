@@ -55,7 +55,7 @@ and institutional service through the University of Texas at Dallas.
 
 ---
 
-## Teaching Service
+## Teaching Service For Students
 
 ### Course Assignments
 
