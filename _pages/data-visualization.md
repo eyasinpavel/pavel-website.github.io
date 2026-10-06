@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Data Visualization
-
 ## Assignment 4: Hackathon
 
 This assignment based on 48‑Hour Chart Hackathon.
