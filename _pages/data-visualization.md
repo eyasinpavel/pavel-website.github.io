@@ -7,32 +7,11 @@ author_profile: true
 
 # Data Visualization
 
-## Assignment 1: Hackathon
+## Assignment 4: Hackathon
 
 This assignment based on 48‑Hour Chart Hackathon.
 
-[View Assignment 1 (PDF)]({{ '/assets/assignment/assignment_1.pdf' | relative_url }})
+[View Assignment 4 (PDF)]({{ '/assets/assignment/assignment_1.pdf' | relative_url }})
 
 ---
 
-## Assignment 2: Data Analysis
-
-Brief description of the assignment.
-
-[View Assignment 2](...)
-
----
-
-## Assignment 3: Interactive Visualization
-
-Brief description of the assignment.
-
-[View Assignment 3](...)
-
----
-
-## Assignment 4: Data Storytelling
-
-Brief description of the assignment.
-
-[View Assignment 4](...)
