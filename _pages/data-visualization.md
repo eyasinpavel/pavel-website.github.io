@@ -4,7 +4,6 @@ permalink: /data-visualization/
 layout: single
 author_profile: true
 ---
-# Data Visualization
 
 ## Assignment 4: Hackathon
 
