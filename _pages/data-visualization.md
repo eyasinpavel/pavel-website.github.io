@@ -11,7 +11,7 @@ author_profile: true
 
 This assignment based on 48‑Hour Chart Hackathon.
 
-[View Assignment (PDF)](./assets/assignment/assignment_1.pdf)
+[View Assignment 1 (PDF)]({{ '/assets/assignment/assignment_1.pdf' | relative_url }})
 
 ---
 
